@@ -89,7 +89,7 @@ Do you have questions, suggestions, or just want to say hello? Don't hesitate to
 
 * **Your Name:** José Ernesto Abreu
 * **Your Email:** abreujosernesto57@gmail.com
-* **GitHub:** [joseernesto-dev](https://github.com/joseernesto-dev/web-development-exercises)
+* **GitHub:** [joseernesto-dev](https://github.com/joseernesto-dev)
 
 ---
 
