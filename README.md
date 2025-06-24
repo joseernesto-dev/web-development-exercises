@@ -25,7 +25,7 @@ Each folder is a small universe of learning. Dive in! Inside each, you'll find t
 An elegant and simple static web page presenting an omelette recipe with a clean and responsive design. It's a key practice in **semantic HTML** for structure and **modern CSS** for styling and adaptability.
 
 **Quick Preview:**
-![Screenshot of the Omelette Recipe Page](Captura%20de%20pantalla%202025-06-24%20151708.png)
+![Screenshot of the Omelette Recipe Page](screenshots/Simple%20Omelette%20Recipe%20Page.png)
 
 * **Key Technologies:** HTML5, CSS3 (`@media queries`, Google Fonts).
 * **Live Demo:** [**View Omelette Recipe in Action**](https://joseernesto-dev.github.io/web-development-exercises/simple-omelette-recipe/)
@@ -38,7 +38,7 @@ An elegant and simple static web page presenting an omelette recipe with a clean
 A UI development challenge that creates an attractive and fully adaptable profile card. This practice focuses on the power of **Flexbox** for layout and **responsive design** techniques for a flawless experience on any device.
 
 **Quick Preview:**
-![Screenshot of the Responsive Profile Card](Captura%20de%20pantalla%202025-06-24%20151031.png)
+![Screenshot of the Responsive Profile Card](screenshots/Responsive%20Profile%20Card.png)
 
 * **Key Technologies:** HTML5, CSS3 (Flexbox, Google Fonts).
 * **Live Demo:** [**View Profile Card in Action**](https://joseernesto-dev.github.io/web-development-exercises/responsive-profile-card/)
@@ -89,7 +89,6 @@ Do you have questions, suggestions, or just want to say hello? Don't hesitate to
 
 * **Your Name:** José Ernesto Abreu
 * **Your Email:** abreujosernesto57@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile] *(Remember to add your LinkedIn URL here!)*
 * **GitHub:** [joseernesto-dev](https://github.com/joseernesto-dev/web-development-exercises)
 
 ---
